@@ -6,7 +6,8 @@
     "cors": "~2.2.0",
     "express": "~4.0.0",
     "fh-mbaas-api": "5.13.1",
-    "request": "~2.40.0"
+    "request": "~2.40.0",
+    "pg": "6.1.0"
   },
   "devDependencies": {
     "grunt-concurrent": "latest",
@@ -33,5 +34,8 @@
     "debug": "grunt serve",
     "start": "node application.js"
   },
-  "license": "mit"
+  "license": "mit",
+  "eslintConfig": {
+
+    }
 }
