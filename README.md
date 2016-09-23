@@ -4,7 +4,7 @@ Insurance pricing API.
 
 # Group Pricing API
 
-# Pricing [/pricing]
+# Pricing [/pricing/calculate]
 
 ## pricing/calculate [POST] 
 
@@ -29,6 +29,8 @@ Calculate premium.
               "beitrag": 24.41,
               "msg": []
             }
+
+# Pricing [/pricing/list]
 
 ## pricing/list [GET]
 
