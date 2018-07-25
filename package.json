@@ -7,7 +7,7 @@
     "express": "~4.0.0",
     "fh-mbaas-api": "5.13.1",
     "request": "~2.40.0",
-    "pg": "6.1.0"
+    "pg": ">=6.1.6"
   },
   "devDependencies": {
     "grunt-concurrent": "latest",
